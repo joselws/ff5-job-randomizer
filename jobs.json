@@ -1,0 +1,222 @@
+[
+    {
+        "name": "bard",
+        "tier": "s",
+        "crystal": "fire",
+        "strength": -8,
+        "agility": 8,
+        "stamina": -9,
+        "magic": 11,
+        "ABPToMaster": 175
+    },
+    {
+        "name": "beastmaster",
+        "tier": "d",
+        "crystal": "fire",
+        "strength": 13,
+        "agility": 1,
+        "stamina": 8,
+        "magic": -3,
+        "ABPToMaster": 460
+    },
+    {
+        "name": "berserker",
+        "tier": "f",
+        "crystal": "water",
+        "strength": 21,
+        "agility": -9,
+        "stamina": 25,
+        "magic": -23,
+        "ABPToMaster": 500
+    },
+    {
+        "name": "black mage",
+        "tier": "a",
+        "crystal": "wind",
+        "strength": -9,
+        "agility": 0,
+        "stamina": -2,
+        "magic": 31,
+        "ABPToMaster": 680
+    },
+    {
+        "name": "blue mage",
+        "tier": "a",
+        "crystal": "wind",
+        "strength": -8,
+        "agility": 1,
+        "stamina": 3,
+        "magic": 23,
+        "ABPToMaster": 350
+    },
+    {
+        "name": "chemist",
+        "tier": "b",
+        "crystal": "earth",
+        "strength": 2,
+        "agility": 3,
+        "stamina": 6,
+        "magic": -4,
+        "ABPToMaster": 630
+    },
+    {
+        "name": "dancer",
+        "tier": "c",
+        "crystal": "earth",
+        "strength": 5,
+        "agility": 5,
+        "stamina": -10,
+        "magic": -5,
+        "ABPToMaster": 400
+    },
+    {
+        "name": "dragoon",
+        "tier": "b",
+        "crystal": "earth",
+        "strength": 18,
+        "agility": 5,
+        "stamina": 15,
+        "magic": -12,
+        "ABPToMaster": 600
+    },
+    {
+        "name": "freelancer",
+        "tier": "s",
+        "crystal": "special",
+        "strength": 0,
+        "agility": 0,
+        "stamina": 0,
+        "magic": 0,
+        "ABPToMaster": 0
+    },
+    {
+        "name": "geomancer",
+        "tier": "d",
+        "crystal": "fire",
+        "strength": 4,
+        "agility": 2,
+        "stamina": 4,
+        "magic": 24,
+        "ABPToMaster": 175
+    },
+    {
+        "name": "knight",
+        "tier": "s",
+        "crystal": "wind",
+        "strength": 23,
+        "agility": 1,
+        "stamina": 20,
+        "magic": -14,
+        "ABPToMaster": 690
+    },
+    {
+        "name": "mime",
+        "tier": "c",
+        "crystal": "special",
+        "strength": 0,
+        "agility": 0,
+        "stamina": 0,
+        "magic": 0,
+        "ABPToMaster": 999
+    },
+    {
+        "name": "monk",
+        "tier": "c",
+        "crystal": "wind",
+        "strength": 26,
+        "agility": 1,
+        "stamina": 26,
+        "magic": -23,
+        "ABPToMaster": 700
+    },
+    {
+        "name": "mystic knight",
+        "tier": "a",
+        "crystal": "water",
+        "strength": 14,
+        "agility": 14,
+        "stamina": 14,
+        "magic": 1,
+        "ABPToMaster": 680
+    },
+    {
+        "name": "ninja",
+        "tier": "s",
+        "crystal": "fire",
+        "strength": 15,
+        "agility": 14,
+        "stamina": 3,
+        "magic": -10,
+        "ABPToMaster": 690
+    },
+    {
+        "name": "ranger",
+        "tier": "b",
+        "crystal": "fire",
+        "strength": 16,
+        "agility": 12,
+        "stamina": 1,
+        "magic": -5,
+        "ABPToMaster": 600
+    },
+    {
+        "name": "red mage",
+        "tier": "b",
+        "crystal": "water",
+        "strength": 8,
+        "agility": 5,
+        "stamina": -6,
+        "magic": 8,
+        "ABPToMaster": 1159
+    },
+    {
+        "name": "samurai",
+        "tier": "s",
+        "crystal": "earth",
+        "strength": 19,
+        "agility": 2,
+        "stamina": 19,
+        "magic": -12,
+        "ABPToMaster": 820
+    },
+    {
+        "name": "summoner",
+        "tier": "a",
+        "crystal": "water",
+        "strength": -10,
+        "agility": -1,
+        "stamina": -1,
+        "magic": 33,
+        "ABPToMaster": 750
+    },
+    {
+        "name": "thief",
+        "tier": "a",
+        "crystal": "wind",
+        "strength": 1,
+        "agility": 16,
+        "stamina": 2,
+        "magic": -6,
+        "ABPToMaster": 635
+    },
+    {
+        "name": "time mage",
+        "tier": "s",
+        "crystal": "water",
+        "strength": -5,
+        "agility": 2,
+        "stamina": -3,
+        "magic": 24,
+        "ABPToMaster": 530
+    },
+    {
+        "name": "white mage",
+        "tier": "b",
+        "crystal": "wind",
+        "strength": -7,
+        "agility": 1,
+        "stamina": 0,
+        "magic": 25,
+        "ABPToMaster": 580
+    }
+]
